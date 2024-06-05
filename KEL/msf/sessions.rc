@@ -1,0 +1,5 @@
+use exploit/multi/handler
+<ruby>
+run_single("set LHOST #{ENV['DSTIP']}")
+</ruby>
+exploit
