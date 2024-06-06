@@ -4,15 +4,9 @@ Das Projekt schafft eine einfache Bedienung des "/windows/fileformat/adobe_pdf_e
 
 ## Inhaltsverzeichnis
 1. [Motivation](#Motivation)
-1. [Installation](#installation)
-2. [Nutzung](#nutzung)
-3. [Beispiele](#beispiele)
-4. [Beitrag](#beitrag)
-5. [Lizenz](#lizenz)
-6. [Autoren](#autoren)
-7. [Versionierung](#versionierung)
-8. [Fehlerberichte und Support](#fehlerberichte-und-support)
-9. [Weitere Informationen](#weitere-informationen)
+2. [Installation](#installation)
+3. [Disclaimer](#disclaimer)
+
 
 ## Motivation
 
@@ -20,17 +14,17 @@ Durch ein Video von dem Youtuber "Loi Liang Yang" wurde ich auf den Exploit aufm
 
 ## Installation
 ```bash
-git clone https://github.com/username/my_project.git
-cd my_project
+git clone https://github.com/emilJ0/evilPDF.git
+cd evilPDF
 pip install -r requirements.txt
 ```
 
-## Nutzung
+## Disclaimer
 
-Grundlegende Informationen zur Nutzung des Projekts.
+Dieses Tool ist ausschließlich für Bildungs- und Forschungszwecke gedacht.
 
-## Beispiele
+Die Verwendung dieses Tools, um unbefugten Zugang zu Computern oder Netzwerken zu erlangen oder anderweitig illegale Aktivitäten durchzuführen, ist strengstens verboten. Der Autor übernimmt keine Verantwortung für jegliche Schäden oder rechtliche Konsequenzen, die durch die Nutzung dieses Tools entstehen.
 
-```python
-# Code-Beispiel
-print("Hallo Welt")
+Verwenden Sie dieses Tool nur in einer kontrollierten Umgebung und mit ausdrücklicher Genehmigung der betreffenden Parteien.
+
+
