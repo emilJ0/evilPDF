@@ -177,6 +177,3 @@ if __name__ == "__main__":
             print(f"{Fore.RED}Error:{Style.RESET_ALL} wrong command: {Fore.BLUE}{cmd[0]}{Style.RESET_ALL}")
 
 
-# tvqh chzt egje sxsc
-# "das ist ein schöner tag".split(" ")
-# array = [das, ist, schöer, tag]
